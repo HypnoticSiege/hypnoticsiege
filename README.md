@@ -13,5 +13,5 @@
 
 - 🐦Follow me on Twitter: [Click Here](https://twitter.com/hypnoticsiege).
 
-- ✉ Contact Me: [Click Here](twitter.com/hypnoticsiege)
+- ✉ Contact Me: [Click Here](https://hypnoticsiege)
 <hr>
