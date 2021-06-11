@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HypnoticSiege&layout=compact&theme=react" alt="Languages" />
 </p>
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=HypnoticSiege&show_icons=true&theme=react" alt="Languages" height="100" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HypnoticSiege&show_icons=true&theme=react" alt="Languages" height="160" />
 </p>
 <h1 align="center">🔗Social Media Links: </h1>
 
