@@ -1,20 +1,13 @@
-<h1 align="center">👋 Hey, thanks for coming here. I'm Luis but you can call me HypnoticSiege</h1>
-<h3 align="center">I am a "developer" if you really wanna call me one, mostly doing JavaScript, Lua and then some basic Web Development</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HypnoticSiege&layout=compact&theme=react" alt="Languages" />
+<h1 align="center">👋 Hey, I'm Luis!</h1> 
+<p align="center">
+    <img style="text-align: center" src="https://discord.c99.nl/widget/theme-4/479456028967305247.png">
 </p>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=HypnoticSiege&show_icons=true&theme=react" alt="Languages" height="160" />
+
+<h4 align="center">I'm a Backend Node.js Developer & UI/Web Developer<br></h4>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HypnoticSiege&show_icons=true&theme=react">
 </p>
-<h1 align="center">🔗Social Media Links: </h1>
-
-- 🤖 Check Out Hypertonic Discord Bot [Click Here](https://hypertonicdiscordbot.weebly.com/)
-
-- 🤖 Working on HypnoticBot, a Personal Use Discord/Twitch Bot.
-
-- 🔨 Check out my Tiwtch and Discord. [Twitch](https://www.twitch.tv/hypnoticsiege), [Discord](https://discord.gg/tTupCGN)
-
-- 🐦Follow me on Twitter: [Click Here](https://twitter.com/hypnoticsiege).
-
-- ✉ Contact Me: [Click Here](https://twitter.com/hypnoticsiege)
 <hr>
+<h4 align="center"><a href='https://hypnoticsiege.codes' target="_blank">My Website</a><h4>
+    
