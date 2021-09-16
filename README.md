@@ -9,5 +9,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=HypnoticSiege&show_icons=true&theme=react">
 </p>
 <hr>
-<h4 align="center"><a href='https://hypnoticsiege.codes' target="_blank">My Website</a><h4>
+<h2>Make sure to ⭐Star⭐ any Projects you like! <3</h2
+<h4 align="center"><a href='https://hypnoticsiege.codes' target="_blank">My Website</a></h4>
     
