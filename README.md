@@ -10,5 +10,5 @@
 </p>
 <hr>
 <h2>Make sure to ⭐ Star any Projects you like! <3</h2
-<h4 align="center"><a href='https://hypnoticsiege.codes' target="_blank">My Website</a></h4>
-    
+<h3 align="center"><a href='https://hypnoticsiege.codes' target="_blank">My Website</a></h3>
+<h3 align="center"><a href='mailto: luis@hypnoticsiege.codes' target="_blank">Email Me</a></h3>
