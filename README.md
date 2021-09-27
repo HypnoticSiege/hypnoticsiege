@@ -5,7 +5,8 @@
 <a href="https://discord.com/users/479456028967305247">
   <img src="https://lanyard-profile-readme.vercel.app/api/479456028967305247" align="center"/>
 </a>
-  </div
+</div>
+<br>
 
 <h4 align="center">I'm a Backend Node.js Developer & UI/Web Developer<br></h4>
 
