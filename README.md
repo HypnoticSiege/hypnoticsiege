@@ -1,8 +1,9 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<h1 align="center">👋 Hey, I'm Luis!</h1> 
-<p align="center">
-    <img style="text-align: center" src="https://discord.c99.nl/widget/theme-4/479456028967305247.png">
-</p>
+<h1 align="center">👋 Hey, I'm Luis!</h1>
+
+<a href="https://discord.com/users/479456028967305247">
+  <img src="https://lanyard-profile-readme.vercel.app/api/479456028967305247" align="center"/>
+</a>
 
 <h4 align="center">I'm a Backend Node.js Developer & UI/Web Developer<br></h4>
 
