@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <h1 align="center">👋 Hey, I'm Luis!</h1>
 
-<a href="https://discord.com/users/479456028967305247">
+<a href="https://discord.com/users/479456028967305247" align="center">
   <img src="https://lanyard-profile-readme.vercel.app/api/479456028967305247" align="center"/>
 </a>
 
