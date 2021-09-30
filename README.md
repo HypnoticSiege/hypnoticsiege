@@ -13,7 +13,7 @@
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=HypnoticSiege&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true">
   <br>  
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HypnoticSiege&hide_border=true&theme=react">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HypnoticSiege&hide_border=true&theme=react&layout=compact">
 </p>
 <hr>
 <h2 align="center">Make sure to ⭐ Star any Projects you like! <3</h2>
