@@ -1,14 +1,13 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <h1 align="center">👋 Hey, I'm Luis!</h1>
+<br>
 
+<h2 align="center">I'm a Backend Node.js Developer & UI/Web Developer<br></h2>
 <div align="center">
 <a href="https://discord.com/users/479456028967305247">
   <img src="https://lanyard-profile-readme.vercel.app/api/479456028967305247" align="center"/>
 </a>
 </div>
-<br>
-
-<h4 align="center">I'm a Backend Node.js Developer & UI/Web Developer<br></h4>
 <br>
 
 <p align="center">
