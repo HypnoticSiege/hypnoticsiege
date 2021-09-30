@@ -12,6 +12,7 @@
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=HypnoticSiege&show_icons=true&theme=react&include_all_commits=true&count_private=true">
+  <br>  
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HypnoticSiege&layout=compact&hide_border=true&theme=react">
 </p>
 <hr>
