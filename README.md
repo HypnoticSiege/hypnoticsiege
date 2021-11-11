@@ -8,7 +8,6 @@
     <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HypnoticSiege&hide_border=true&theme=react&layout=compact">
     </a>
 </p>
-<br>
 <div align="center">
 <a href="https://discord.com/users/479456028967305247">
   <img src="https://lanyard-profile-readme.vercel.app/api/479456028967305247" align="center"/>
