@@ -1,4 +1,3 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <h1 align="center">👋 Hey, I'm Luis!</h1>
 <h2 align="center">I'm a Backend Node.JS Developer & UI/Web Developer<br></h2>
 <p align="center">
