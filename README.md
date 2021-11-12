@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Luis!</h1>
-<h2 align="center">I'm a Backend Node.JS Developer & UI/Web Developer<br></h2>
+<h2 align="center">I'm a Back-End Node.JS & Front-End UI/Web Developer<br></h2>
 <p align="center">
     <a href="https://github.com/HypnoticSiege">
     <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=HypnoticSiege&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true">
