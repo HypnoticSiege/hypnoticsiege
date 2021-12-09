@@ -15,6 +15,7 @@
 </div>
 <hr>
 <h2 align="center">Make sure to ⭐ any Projects you like! 💖</h2>
-<h3 align="center"><a href='https://hypnoticsiege.codes' target="_blank">💻 My Website</a></h3>
+<h3 align="center"><a href='https://hypnoticsiege.net' target="_blank">💻 My Website</a></h3>
 <h3 align="center"><a href='mailto:luis@hypnoticsiege.codes?subject=Your GitHub' target="_blank">📨 Email Me</a></h3>
+<h3 align="center"><a href='https://hypnoticsiege.net/hosting' target="_blank">☁️ Snowside Hosting</a></h3>
 <h3 align="center"><a href='https://snapout.nl' target="_blank">🧠 Snapout Mental Health Awareness</a></h3>
