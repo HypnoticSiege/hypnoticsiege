@@ -33,7 +33,7 @@ I'm a High School student planning to have a career in Aviation ✈️. I always
 ![](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=blue)&nbsp;
 ![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=orange)&nbsp;
 ![](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Stats
 
