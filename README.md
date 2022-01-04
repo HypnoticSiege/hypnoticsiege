@@ -48,7 +48,9 @@ I'm a High School student planning to have a career in Aviation ✈️. I always
 
 ### ⚙️ My Resources & Tools:
 
-- OS: Windows 10
+- PC: Prebuilt Tower Build
+- Apple MacBook Air M1 8GB
+- OS: Windows 10/macOS Monterey
 - Browser: Google Chrome
 - Code Editor: VS Code
 
