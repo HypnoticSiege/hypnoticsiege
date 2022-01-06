@@ -38,7 +38,7 @@ I'm a High School student planning to have a career in Aviation ✈️. I always
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="left">
-<a href="https://github.com/Itz-Hyperz">
+<a href="https://github.com/HypnoticSiege">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HypnoticSiege&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HypnoticSiege&layout=compact&langs_count=8&theme=react"/>
 </a>
