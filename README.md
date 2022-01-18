@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=HypnoticSiege&label=Views&color=blue&style=plastic) 
 
-I'm a High School student planning to have a career in Aviation ✈️. I always love to expand my knowledge and learn about new technologies and tools 🔨.  Exploring different ways to solve problems has always been a big part of me to this day. Currently, I do a lot of Discord Bot Development 👨🏻‍💻 and trying to learn some more Vue 👀.
+I'm a High School student planning to have a career in Aviation ✈️ or Programming 💻. I always love to expand my knowledge and learn about new technologies and tools 🔨.  Exploring different ways to solve problems has always been a big part of me to this day. Currently, I do a lot of Discord Bot Development 👨🏻‍💻 and trying to learn some more Vue & React Native 👀.
 
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
