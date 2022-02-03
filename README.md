@@ -19,9 +19,9 @@ I'm a High School student planning to have a career in Aviation ✈️ or Progra
 - 📌 &nbsp; [Snapout Mental Health Awareness](https://snapout.nl/)
 - 🚀 &nbsp; [Discord x Twitch](https://github.com/HypnoticSiege/Discord-x-Twitch)
 - 🏫 &nbsp; [xDiscord FiveM](https://github.com/HypnoticSiege/xDiscord)
+- 💡 &nbsp; [Discord Light Controller](https://github.com/HypnoticSiege/discord-light-controller)
 - 🌀 &nbsp; [Discord Buttons RPC](https://github.com/HypnoticSiege/Discord-Buttons-RPC)
-- 👓 &nbsp; [Discord JS Logging](https://github.com/HypnoticSiege/Discord-JS-Logging)
-- 💻 &nbsp; [xMiranda](https://github.com/HypnoticSiege/xMiranda)
+- 💻 &nbsp; [xMiranda FiveM](https://github.com/HypnoticSiege/xMiranda)
 
 ### Languages and Tools:
 
