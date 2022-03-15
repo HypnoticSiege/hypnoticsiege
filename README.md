@@ -41,10 +41,10 @@ I'm a High School student planning to have a career in Aviation ✈️ or Progra
 <a href="https://github.com/HypnoticSiege">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HypnoticSiege&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HypnoticSiege&layout=compact&langs_count=8&theme=react"/>
-</a>
+  </a>
+</p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</p>
 
 ---
 
