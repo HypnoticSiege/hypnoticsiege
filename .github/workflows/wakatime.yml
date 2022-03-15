@@ -16,7 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LOC_CHART: False
           SHOW_UPDATED_DATE: False
-          COMMIT_MESSAGE: "[ACTION] ReadMe Stats"
+          COMMIT_MESSAGE: "[ACTION] Automated README Stats"
           COMMIT_BY_ME: True
           LOCALE: "en"
           SHOW_PROFILE_VIEWS: False
