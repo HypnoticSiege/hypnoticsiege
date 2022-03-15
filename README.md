@@ -35,13 +35,15 @@ I'm a High School student planning to have a career in Aviation ✈️ or Progra
 ![](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Stats
+### &nbsp;GitHub Stats
 
 <p align="left">
 <a href="https://github.com/HypnoticSiege">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HypnoticSiege&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HypnoticSiege&layout=compact&langs_count=8&theme=react"/>
 </a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </p>
 
 ---
