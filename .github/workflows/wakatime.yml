@@ -1,4 +1,4 @@
-name: Waka README
+name: Waka Readme
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 jobs:
   update-readme:
-    name: Update README w/ WakaTime Stats
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
