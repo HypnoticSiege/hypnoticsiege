@@ -75,10 +75,10 @@ I'm a High School student planning to have a career in Aviation ✈️ or Progra
 Monday       66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.44% 
 Tuesday      80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
 Wednesday    101 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
-Thursday     95 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.46% 
+Thursday     94 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.29% 
 Friday       111 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.24% 
 Saturday     58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.05% 
-Sunday       66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.44%
+Sunday       67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61%
 
 ```
 
