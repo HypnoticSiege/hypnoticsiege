@@ -44,15 +44,15 @@ I'm a High School student planning to have a career in Aviation ✈️ or Progra
   </a>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-57%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 378 Contributions in the Year 2022
+> 🏆 380 Contributions in the Year 2022
  > 
-> 📦 30.0 kB Used in GitHub's Storage 
+> 📦 30.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,8 +74,8 @@ I'm a High School student planning to have a career in Aviation ✈️ or Progra
 ```text
 Monday       69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.84% 
 Tuesday      74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.69% 
-Wednesday    112 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.21% 
-Thursday     91 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.61% 
+Wednesday    111 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.04% 
+Thursday     92 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.78% 
 Friday       108 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
 Saturday     58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.95% 
 Sunday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18%
