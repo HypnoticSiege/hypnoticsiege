@@ -52,7 +52,7 @@ I'm a High School student planning to have a career in Aviation ✈️ or Progra
 
 > 🏆 473 Contributions in the Year 2022
  > 
-> 📦 30.3 kB Used in GitHub's Storage 
+> 📦 30.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,8 +72,8 @@ I'm a High School student planning to have a career in Aviation ✈️ or Progra
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.31% 
-Tuesday      84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.98% 
+Monday       85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.14% 
+Tuesday      85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.14% 
 Wednesday    105 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.47% 
 Thursday     92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.31% 
 Friday       108 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.97% 
