@@ -44,11 +44,13 @@ I'm a High School student planning to have a career in Aviation ✈️ or Progra
   </a>
 </p>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2055%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-110%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 602 Contributions in the Year 2022
+> 🏆 603 Contributions in the Year 2022
  > 
 > 📦 31.3 kB Used in GitHub's Storage 
  > 
@@ -61,10 +63,10 @@ I'm a High School student planning to have a career in Aviation ✈️ or Progra
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    208 commits    ███████░░░░░░░░░░░░░░░░░░   31.47% 
+🌞 Morning    209 commits    ████████░░░░░░░░░░░░░░░░░   31.62% 
 🌆 Daytime    197 commits    ███████░░░░░░░░░░░░░░░░░░   29.8% 
 🌃 Evening    183 commits    ███████░░░░░░░░░░░░░░░░░░   27.69% 
-🌙 Night      73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.04%
+🌙 Night      72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.89%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
