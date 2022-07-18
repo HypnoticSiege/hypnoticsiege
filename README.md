@@ -50,7 +50,7 @@ I'm a High School student planning to have a career in Aviation ✈️ or Progra
 
 **🐱 My GitHub Data** 
 
-> 🏆 892 Contributions in the Year 2022
+> 🏆 893 Contributions in the Year 2022
  > 
 > 📦 58.3 kB Used in GitHub's Storage 
  > 
@@ -64,8 +64,8 @@ I'm a High School student planning to have a career in Aviation ✈️ or Progra
 
 ```text
 🌞 Morning    287 commits    ████████░░░░░░░░░░░░░░░░░   34.21% 
-🌆 Daytime    259 commits    ███████░░░░░░░░░░░░░░░░░░   30.87% 
-🌃 Evening    224 commits    ██████░░░░░░░░░░░░░░░░░░░   26.7% 
+🌆 Daytime    260 commits    ███████░░░░░░░░░░░░░░░░░░   30.99% 
+🌃 Evening    223 commits    ██████░░░░░░░░░░░░░░░░░░░   26.58% 
 🌙 Night      69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.22%
 
 ```
@@ -87,16 +87,16 @@ Sunday       75 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
