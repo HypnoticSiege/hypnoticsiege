@@ -44,13 +44,13 @@ I'm a High School student planning to have a career in Aviation ✈️ or Progra
   </a>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-119%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 909 Contributions in the Year 2022
+> 🏆 910 Contributions in the Year 2022
  > 
 > 📦 58.3 kB Used in GitHub's Storage 
  > 
@@ -63,8 +63,8 @@ I'm a High School student planning to have a career in Aviation ✈️ or Progra
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    280 commits    ████████░░░░░░░░░░░░░░░░░   33.37% 
-🌆 Daytime    276 commits    ████████░░░░░░░░░░░░░░░░░   32.9% 
+🌞 Morning    279 commits    ████████░░░░░░░░░░░░░░░░░   33.25% 
+🌆 Daytime    277 commits    ████████░░░░░░░░░░░░░░░░░   33.02% 
 🌃 Evening    214 commits    ██████░░░░░░░░░░░░░░░░░░░   25.51% 
 🌙 Night      69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.22%
 
@@ -74,8 +74,8 @@ I'm a High School student planning to have a career in Aviation ✈️ or Progra
 ```text
 Monday       124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
 Tuesday      143 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
-Wednesday    163 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.43% 
-Thursday     126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.02% 
+Wednesday    162 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.31% 
+Thursday     127 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.14% 
 Friday       142 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.92% 
 Saturday     66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.87% 
 Sunday       75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.94%
@@ -87,17 +87,16 @@ Sunday       75 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-EJS                      21 mins             █████████████████████░░░░   85.33% 
-SCSS                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.67%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nat-theme                25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
