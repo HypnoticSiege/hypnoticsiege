@@ -22,7 +22,7 @@ I'm a High School Student & Developer living in New York City. I love to code an
 ### &nbsp;My GitHub Stats:
 <p align="left">
 <a href="https://github.com/HypnoticSiege">
-  <img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HypnoticSiege&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HypnoticSiege&layout=compact&langs_count=8&theme=react"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HypnoticSiege&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HypnoticSiege&layout=compact&langs_count=8&theme=react"/>
   </a>
 </p>
