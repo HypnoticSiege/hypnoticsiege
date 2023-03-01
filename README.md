@@ -1,7 +1,7 @@
 # **<div align="center">I'm [Luis](https://quezada.nl/), a Student & Developer 👨‍💻</div>**  
   
 
-## **Highlighted Work:**  
+## ✨ Highlighted Work:  
   
 
 - 📌 [Snapout Mental Health Awareness](https://snapout.nl/)  
